@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Department {
+public class Department {
+    int id;
+    String name;
 }

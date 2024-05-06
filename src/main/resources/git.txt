@@ -1,0 +1,13 @@
+git init
+git status
+git add [...]
+git commit -m [message]
+git remote add origin [url]
+git branch -M main
+git push -u origin main
+
+-- Tạo nhánh và chuyển qua đó
+git checkout -b [branch_name]
+
+
+
